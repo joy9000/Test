@@ -181,10 +181,10 @@ namespace Stock_managemt
             Wprv_ShowData();
         }
 
-        //private void FrmUser_Load(object sender, EventArgs e)
-        //{
+        
+      
 
-        //}
+      
     }
 
 }
