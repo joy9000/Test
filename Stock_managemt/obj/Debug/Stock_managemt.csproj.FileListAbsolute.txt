@@ -1,0 +1,11 @@
+C:\Users\SANGKHOM\Documents\Visual Studio 2017\Projects\Stock_managemt\Stock_managemt\bin\Debug\Stock_managemt.exe.config
+C:\Users\SANGKHOM\Documents\Visual Studio 2017\Projects\Stock_managemt\Stock_managemt\bin\Debug\Stock_managemt.exe
+C:\Users\SANGKHOM\Documents\Visual Studio 2017\Projects\Stock_managemt\Stock_managemt\bin\Debug\Stock_managemt.pdb
+C:\Users\SANGKHOM\Documents\Visual Studio 2017\Projects\Stock_managemt\Stock_managemt\obj\Debug\Stock_managemt.MainMenu.resources
+C:\Users\SANGKHOM\Documents\Visual Studio 2017\Projects\Stock_managemt\Stock_managemt\obj\Debug\Stock_managemt.Properties.Resources.resources
+C:\Users\SANGKHOM\Documents\Visual Studio 2017\Projects\Stock_managemt\Stock_managemt\obj\Debug\Stock_managemt.csproj.GenerateResource.cache
+C:\Users\SANGKHOM\Documents\Visual Studio 2017\Projects\Stock_managemt\Stock_managemt\obj\Debug\Stock_managemt.csproj.CoreCompileInputs.cache
+C:\Users\SANGKHOM\Documents\Visual Studio 2017\Projects\Stock_managemt\Stock_managemt\obj\Debug\Stock_managemt.exe
+C:\Users\SANGKHOM\Documents\Visual Studio 2017\Projects\Stock_managemt\Stock_managemt\obj\Debug\Stock_managemt.pdb
+C:\Users\SANGKHOM\Documents\Visual Studio 2017\Projects\Stock_managemt\Stock_managemt\obj\Debug\Stock_managemt.csprojAssemblyReference.cache
+C:\Users\SANGKHOM\Documents\Visual Studio 2017\Projects\Stock_managemt\Stock_managemt\obj\Debug\Stock_managemt.FrmUser.resources
